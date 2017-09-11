@@ -1,0 +1,25 @@
+{
+  "name": "nata2611",
+  "version": "1.0.0",
+  "description": "this my first time with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nata2611/nata2611.github.io.git"
+  },
+  "author": "natalia taran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nata2611/nata2611.github.io/issues"
+  },
+  "homepage": "https://github.com/nata2611/nata2611.github.io#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  }
+}
